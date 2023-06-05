@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/careers/:match*",
+      "destination": "https://assemblar.notion.site/:match*"
+    }
+  ]
+}
