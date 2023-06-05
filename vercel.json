@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/careers/:match*",
-      "destination": "https://assemblar.notion.site/:match*"
+      "source": "/careers",
+      "destination": "https://assemblar.notion.site/assemblar/Careers-26ed96257acf4465ac52f1ee4b134e93"
     }
   ]
 }
